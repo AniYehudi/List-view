@@ -1,0 +1,72 @@
+﻿<Window x:Class="List_View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:List_View"
+        mc:Ignorable="d"
+        Title="Filme" Height="450" Width="558.8" ResizeMode="CanResizeWithGrip">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>ID:</Label>
+                    <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox0" VerticalAlignment="Top" Width="127" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label>Numele :</Label>
+                    <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox1" VerticalAlignment="Top" Width="127" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label>Anul :</Label>
+                    <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox2" VerticalAlignment="Top" Width="127" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label>Actorul :</Label>
+                    <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox3" VerticalAlignment="Top" Width="127" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label>Regizorul :</Label>
+                    <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox4" VerticalAlignment="Top" Width="127" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label>Buget :</Label>
+                    <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox5" VerticalAlignment="Top" Width="127" />
+                </StackPanel>
+                <Button Height="23" Margin="10,14,0,0" x:Name="button1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="76" Click="add_List" Content="Add Item"/>
+
+            </StackPanel>
+
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>ID :</Label>
+                    <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox6" VerticalAlignment="Top" Width="127" />
+                </StackPanel>
+
+                <Button Height="23" Margin="20,14,124,0" Name="DeleteButton" VerticalAlignment="Top" Click="removeList">Delete Item</Button>
+            </StackPanel>
+
+        </StackPanel>
+
+        <StackPanel>
+            <ListView Margin="10,10,0,13" Name="ListView1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="532" Height="200">
+
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding ID}"/>
+                        <GridViewColumn Header="Numele" Width="150" DisplayMemberBinding="{Binding Numele}"/>
+                        <GridViewColumn Header="Anul"  Width="50" DisplayMemberBinding="{Binding Anul}"/>
+                        <GridViewColumn Header="Actorul" Width="100" DisplayMemberBinding="{Binding Actorul}"/>
+                        <GridViewColumn Header="Regizorul" Width="100" DisplayMemberBinding="{Binding Regizorul}"/>
+                        <GridViewColumn Header="Buget" Width="50" DisplayMemberBinding="{Binding Buget}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </StackPanel>
+</Window>

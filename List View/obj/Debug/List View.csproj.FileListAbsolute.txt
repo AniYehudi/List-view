@@ -1,0 +1,77 @@
+C:\Users\alex\Desktop\List View\List View\bin\Debug\List View.exe.config
+C:\Users\alex\Desktop\List View\List View\bin\Debug\List View.exe
+C:\Users\alex\Desktop\List View\List View\bin\Debug\List View.pdb
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\List View\List View\obj\Debug\MainWindow.g.cs
+C:\Users\alex\Desktop\List View\List View\obj\Debug\App.g.cs
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View_MarkupCompile.cache
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View_MarkupCompile.lref
+C:\Users\alex\Desktop\List View\List View\obj\Debug\MainWindow.baml
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View.g.resources
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View.exe
+C:\Users\alex\Desktop\List View\List View\obj\Debug\List View.pdb
+C:\Users\alex\Desktop\List View\List View\obj\Debug\Forma.baml
+C:\Users\alex\Desktop\List View\List View\obj\Debug\Forma.g.cs
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\bin\Debug\List View.exe.config
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\bin\Debug\List View.exe
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\bin\Debug\List View.pdb
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\MainWindow.g.cs
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\App.g.cs
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View_MarkupCompile.cache
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View_MarkupCompile.lref
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\MainWindow.baml
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View.g.resources
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View.exe
+C:\Users\alex\Desktop\List View-20201110T130210Z-001\List View\List View\obj\Debug\List View.pdb
+C:\Users\alex\Desktop\List view\List View\List View\bin\Debug\List View.exe.config
+C:\Users\alex\Desktop\List view\List View\List View\bin\Debug\List View.exe
+C:\Users\alex\Desktop\List view\List View\List View\bin\Debug\List View.pdb
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\MainWindow.g.cs
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\App.g.cs
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View_MarkupCompile.cache
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View_MarkupCompile.lref
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\MainWindow.baml
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View.g.resources
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View.exe
+C:\Users\alex\Desktop\List view\List View\List View\obj\Debug\List View.pdb
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\bin\Debug\List View.exe.config
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\bin\Debug\List View.exe
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\bin\Debug\List View.pdb
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\MainWindow.g.cs
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\App.g.cs
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View_MarkupCompile.cache
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View_MarkupCompile.lref
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\MainWindow.baml
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View.g.resources
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View.exe
+C:\Users\alex\Desktop\Organiser\Volatile\College stuff\XAML Training\List view\List View\obj\Debug\List View.pdb
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\bin\Debug\List View.exe.config
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\bin\Debug\List View.exe
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\bin\Debug\List View.pdb
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\MainWindow.g.cs
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\App.g.cs
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View_MarkupCompile.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View_MarkupCompile.lref
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\MainWindow.baml
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View.g.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View.exe
+C:\Users\alex\Desktop\Organiser\Training\C#\WPF XAML\List view\List View\obj\Debug\List View.pdb
